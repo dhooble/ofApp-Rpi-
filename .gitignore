@@ -1,0 +1,7 @@
+
+
+build*/
+*.user
+*.o
+obj/
+bin/
